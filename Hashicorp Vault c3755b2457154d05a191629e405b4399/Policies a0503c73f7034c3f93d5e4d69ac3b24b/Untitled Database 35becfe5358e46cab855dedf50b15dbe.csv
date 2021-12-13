@@ -1,0 +1,9 @@
+﻿Capability,Associated HTTP verbs
+create,POST/PUT
+read,GET
+update,POST/PUT
+delete,DELETE
+list,LIST
+patch,PATCH
+sudo,-
+deny,-
